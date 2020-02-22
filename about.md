@@ -1,15 +1,5 @@
----
-layout: page
-title: About
-permalink: /about/
----
+shit
 
-Some information about you!
+kantianzoomer@protonmail.com
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+https://twitter.com/kantianzoomer
