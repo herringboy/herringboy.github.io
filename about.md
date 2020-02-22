@@ -1,5 +1,5 @@
 shit
 
-kantianzoomer@protonmail.com
+<kantianzoomer@protonmail.com>
 
-https://twitter.com/kantianzoomer
+<https://twitter.com/kantianzoomer>
