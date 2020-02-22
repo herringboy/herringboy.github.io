@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $IBMPlexSerif;
+  background: $white;
+  font: 18px/1.4 $georgia;
 //   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -33,9 +33,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   //font-family: $helveticaNeue;
-  font-family: $IBMPlexSerif;
+  font-family: $robotoMono;
   color: $darkerGray;
-  font-weight: 700;
+  font-weight: 500;
   //font-weight: bold;
 
   line-height: 1.7;
@@ -68,7 +68,7 @@ h4 {
 }
 
 p {
-  font: 18px/1.4 $georgia;
+  //font: 18px/1.4 $georgia;
   margin: 15px 0;
 }
 
@@ -155,6 +155,8 @@ img {
 //
 
 .wrapper-masthead {
+  font: $robotoMono;
+  font-weight: 700;
   margin-bottom: 50px;
 }
 
@@ -198,9 +200,9 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $IBMPlexSerif;
+  font-family: $robotoMono;
 //   font-family: $helveticaNeue;
-  font-weight: 300;
+  font-weight: 500;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -218,7 +220,7 @@ img {
 nav {
   float: right;
   margin: 10px; // @TODO: Vertically middle align
-  font-family: $IBMPlexSerif;
+  font-family: $robotoMono;
 //   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -233,7 +235,7 @@ nav {
 //     margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    font-weight: 300;
+    font-weight: 500;
     letter-spacing: 1px;
 
     @include mobile {
