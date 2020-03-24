@@ -1,6 +1,6 @@
 (this was originally meant to be much longer and comprehensive, but I got lazy and just finished it abruptly because I'd never finish it otherwise)
 
-
+<br/>
 The Problem With Foundations
  
 Set theory as a foundation of mathematics has been a contentious issue since its inception.  Notable objections were those of the Constructivists, Henri Poincare, and Ludwig Wittgenstein, among others.  I will not go into any of these objections, but instead I present an objection to the very notion of a foundation of mathematics as traditionally defined.  
@@ -22,9 +22,8 @@ Definitions package preexisting structure into single terms or ideas.  This redu
 So what sets axioms apart from definitions? And why aren’t definitions a foundation of mathematics?  Axioms differ from definitions in that they are justifications/parametrisations of preexisting structure.  Definitions do not seek to *justify* preexisting structure, but instead simply *characterise* structures and create new structure.  None of these are true foundations because they are either dependent on the preexistence of mathematical structure, or in the case of base definitions (those closest to innate logic (i.e. least abstracted)), they are derived from innate logic (i.e. The structure of logic itself is a phenomenal manifestation of innate logic and cannot be justified with logical proof).  And since innate logic is noumenal, it cannot be described or inquired into.  In some sense, from a bird’s eye view, the “foundation” of all of mathematics and logic is innate logic.  But it is a “foundation” in the same sense that all phenomena arise from noumena.  There is no *phenomenal* foundation of mathematics, and nearly every definition of a “foundation” is phenomenal.  
  
  
- 
- 
- 
+
+<br/> 
 Side note: Causation
  
 The causal link is also derived from innate logic.  All “minds” (using the broadest definition of the word, encompassing all neural networks) “perceive” (in the broadest sense possible) the causal link.  This is why causality is said to be apriori.
