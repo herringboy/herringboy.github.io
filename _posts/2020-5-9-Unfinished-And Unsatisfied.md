@@ -21,11 +21,17 @@ In our alienation from others, social interactions become strained and present a
 ------
 
 And then I planned to talk about some of the following:
+
 -enframing is intimately connected to presence at hand, and the rise to of collective presence at hand over collective readiness to hand is largely due to the rise of the enframing mode of revealing
+
 -localism maximises collective readiness to hand in social situations (and that collective RtH is only possible in small communities) and thus localism is necessary in an ideal society
+
 -maybe connect this to early 19th century America and petty commodity mode of production
+
 -talk about alienation from species essence in terms of presence at hand being "farther away" from the essence of dasein, and readiness is a far more natural mode for dasein
+
 -talk about what a collectively ready to hand society looks like
+
 -"If there is an "end of history" as a penultimate development of consciousness it is [collective readiness to hand], and supposing that the end of history is a sort of eternal recurrence, with deviations from that optimum bound to arrive back at the end, it seems fitting that the end will be a return to pre-ontological consciousness.  The end of history is the beginning.  That which predates history as a form of ontological reflection, a present at hand practice."
 
 I'll probably continue this sometime later, but the pressure to continue has killed my motivation and frankly, I'm getting bored of it.  I think I'll try writing aphorisms for the time being.
