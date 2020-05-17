@@ -1,3 +1,5 @@
+***This post is actually terrible and cringe, you have been warned***
+
 Seems like I can't finish a thought before moving on.  Maybe it's a good thing, a sign I'm still learning, my views still rapidly changing and amorphous.  Or maybe it's that postmodern thing where people continually shift from one narrative to another and confuse it for personal development.  I guess there's something to be said about the artist (in the broadest sense, including philosophers, artisans, anything that requires ongoing refinement of skills or projects) in postmodernity.  If individuals can't stick to one narrative for any extended period, how is anyone supposed to develop a grand creative project?  
 
 Anyway, here's what I was planning to post: 
